@@ -8,12 +8,14 @@
   import Suggestion from "./components/Suggestion";
   import Navbar from "./components/Navbar";
   import RegisterPage from "./components/RegisterPage";
+  import ToastContainerComponent from "./components/ToastContainerComponent";
   function App() {
     const location=useLocation();
     const path=location.pathname;
     console.log(path);
     return (
       <>
+        <ToastContainerComponent/>
         {path != "/mood" && path != "/express" ? <Navbar /> : null}
         <Routes>
           <Route
