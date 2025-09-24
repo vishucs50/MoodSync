@@ -27,8 +27,8 @@ MoodSync is a zone where you can come and express your feelings and it will unde
 ![Login](gallery/Screenshot%202025-09-24%20184049.png)
 ![Register](gallery/Screenshot%202025-09-24%20184154.png)
 ![Express your mood](gallery/Screenshot%202025-09-24%20184235.png)
-![Express your mood](gallery/Screenshot%202025-09-24%20184235.png)
 ![Suggested Playlist](gallery/image.png)
+![Express your mood](gallery/Screenshot%202025-09-24%20184353.png)
 ## Demo
 
 Check out the live site here: [YelpCamp Live]( https://yelp-camp-o73i.onrender.com/)
