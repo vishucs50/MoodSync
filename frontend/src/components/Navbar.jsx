@@ -53,22 +53,24 @@ export default function Navbar(){
               MoodSync
             </Link>
           </div>
-          {!isSignedIn ? (<div className="navbar-center">
-            <Link
-              to="/register"
-              className="h-10 w-20 flex items-center justify-center hover:bg-gray-700 rounded-2xl"
-            >
-              Register
-            </Link>
-            <Link
-              to="/login"
-              className="h-10 w-20 flex items-center justify-center hover:bg-gray-700 rounded-2xl"
-            >
-              Login
-            </Link>
-          </div>) : null}
+          {!isSignedIn ? (
+            <div className="navbar-center">
+              <Link
+                to="/register"
+                className="h-10 w-20 flex items-center justify-center hover:bg-gray-700 rounded-2xl"
+              >
+                Register
+              </Link>
+              <Link
+                to="/login"
+                className="h-10 w-20 flex items-center justify-center hover:bg-gray-700 rounded-2xl"
+              >
+                Login
+              </Link>
+            </div>
+          ) : null}
           <div className="navbar-end">
-              <UserButton/>
+            <UserButton  />
           </div>
         </div>
       </>
