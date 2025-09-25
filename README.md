@@ -7,7 +7,6 @@ MoodSync is a zone where you can come and express your feelings and it will unde
 - [Features](#features)
 - [Technologies](#technologies)
 - [Sample Images](#sampleImages)
-- [Demo](#demo)
 
 ## Features
 - **User Authentication:** Secure sign-in/sign-up using [Clerk.dev](https://clerk.dev/).  
@@ -33,6 +32,4 @@ MoodSync is a zone where you can come and express your feelings and it will unde
 ![Profile](gallery/profile.png)
 ![Profile](gallery/profilee.png)
 <video src="gallery/demo.mp4" controls width="600"></video>
-## Demo
 
-<!-- Check out the live site here: [YelpCamp Live]( https://yelp-camp-o73i.onrender.com/) -->
